@@ -1,2 +1,7 @@
-# telethon_logincode_reader
-Python script for reading login codes using telethon .session
+впринципе оно создано только потому что я на лзт купил аккаунт и за полчаса не смог найти готовый скрипт
+
+
+для использования нужно `pip install telethon`, скачать скрипт, в файле указать APP_ID, APP_HASH и путь до .session-файла
+
+
+впринципе в теории запускается даже через термукс/pydroid (для запуска с телефона и писал скрипт))))
